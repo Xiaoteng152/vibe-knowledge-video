@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vibe 知识动画"
+  short_description: "用 Remotion 制作中文知识动画，分析音乐节拍、合成音效并逐段打磨成片"
+  default_prompt: "使用 $vibe-knowledge-video，把我的知识主题制作成中文音乐卡点动画，先做十秒样片再逐段完成。"
